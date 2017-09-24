@@ -1,0 +1,30 @@
+DescriptionIntent {Description} please
+DescriptionIntent please {Description}
+DescriptionIntent {Description}
+DescriptionIntent can you {Description}
+DescriptionIntent tell me about that
+DescriptionIntent description please
+AMAZON.StopIntent stop
+AMAZON.StopIntent off
+AMAZON.StopIntent shut up
+AMAZON.StopIntent quit
+AMAZON.StopIntent bye
+AMAZON.StopIntent goodbye
+AMAZON.StopIntent I'm done
+AMAZON.StopIntent End game
+AMAZON.StopIntent End story
+AMAZON.StartOverIntent start over
+AMAZON.StartOverIntent restart
+AMAZON.StartOverIntent start again
+AMAZON.StartOverIntent play again
+AMAZON.YesIntent yes
+AMAZON.YesIntent yeah
+AMAZON.YesIntent sure
+AMAZON.YesIntent yeee
+AMAZON.YesIntent yup
+AMAZON.YesIntent Affirmative
+AMAZON.NoIntent No
+AMAZON.NoIntent Nah
+AMAZON.NoIntent Nope
+AMAZON.NoIntent Negative
+AMAZON.NoIntent No thanks
